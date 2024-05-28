@@ -1,0 +1,18 @@
+2024-05-28 09:08:49,816 INFO:Concurrency level: 11
+2024-05-28 12:15:57,323 INFO:Cycle number = 1
+2024-05-28 12:15:57,349 INFO:11 CSV files copied successfully
+2024-05-28 12:15:57,349 ERROR:Cannot read parameters file for EURUSD60, added to list for training. Error: [Errno 2] No such file or directory: '/home/pouria/project/trained_models/EURUSD60_parameters.pkl'
+2024-05-28 12:15:57,349 ERROR:Cannot read parameters file for AUDCAD60, added to list for training. Error: [Errno 2] No such file or directory: '/home/pouria/project/trained_models/AUDCAD60_parameters.pkl'
+2024-05-28 12:15:57,350 ERROR:Cannot read parameters file for AUDCHF60, added to list for training. Error: [Errno 2] No such file or directory: '/home/pouria/project/trained_models/AUDCHF60_parameters.pkl'
+2024-05-28 12:15:57,350 ERROR:Cannot read parameters file for AUDNZD60, added to list for training. Error: [Errno 2] No such file or directory: '/home/pouria/project/trained_models/AUDNZD60_parameters.pkl'
+2024-05-28 12:15:57,350 ERROR:Cannot read parameters file for AUDUSD60, added to list for training. Error: [Errno 2] No such file or directory: '/home/pouria/project/trained_models/AUDUSD60_parameters.pkl'
+2024-05-28 12:15:57,350 ERROR:Cannot read parameters file for EURAUD60, added to list for training. Error: [Errno 2] No such file or directory: '/home/pouria/project/trained_models/EURAUD60_parameters.pkl'
+2024-05-28 12:15:57,350 ERROR:Cannot read parameters file for EURCHF60, added to list for training. Error: [Errno 2] No such file or directory: '/home/pouria/project/trained_models/EURCHF60_parameters.pkl'
+2024-05-28 12:15:57,350 ERROR:Cannot read parameters file for EURGBP60, added to list for training. Error: [Errno 2] No such file or directory: '/home/pouria/project/trained_models/EURGBP60_parameters.pkl'
+2024-05-28 12:15:57,350 ERROR:Cannot read parameters file for GBPUSD60, added to list for training. Error: [Errno 2] No such file or directory: '/home/pouria/project/trained_models/GBPUSD60_parameters.pkl'
+2024-05-28 12:15:57,351 ERROR:Cannot read parameters file for USDCAD60, added to list for training. Error: [Errno 2] No such file or directory: '/home/pouria/project/trained_models/USDCAD60_parameters.pkl'
+2024-05-28 12:15:57,351 ERROR:Cannot read parameters file for USDCHF60, added to list for training. Error: [Errno 2] No such file or directory: '/home/pouria/project/trained_models/USDCHF60_parameters.pkl'
+2024-05-28 12:15:57,351 INFO:Currency list length: 11
+2024-05-28 12:15:57,351 INFO:Concurrency level: 11
+2024-05-28 18:17:01,894 INFO:AUDCAD60 >>> Population: 300 & Generation: 0/70 & Best fitness = [0.6936936936936937]
+2024-05-28 18:19:24,384 INFO:AUDCHF60 >>> Population: 300 & Generation: 0/70 & Best fitness = [0.7972972972972973]
